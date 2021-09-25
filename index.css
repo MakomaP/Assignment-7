@@ -1,0 +1,168 @@
+.container{
+    background-color: rgba(0, 0, 0, 0.6);
+    padding-bottom: 50px;
+    height: 5px;
+    outline: transparent;
+    opacity: 0.8;
+    width:100%;
+}
+
+.flix{
+    width: 10px;
+    margin: 0%;
+    height: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+
+}
+
+.logo img{
+    width: 70%;
+    height: 70%;
+}
+.login{
+    margin: 0 auto;
+    width: 300px;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 5px;
+    padding: 30px 70px 143px 50px;
+    
+}
+
+.login-div{
+    color: white;
+    padding-bottom: 80px;
+}
+
+body{
+    background-image: url("netflixwallpaper.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+    margin:auto;
+    padding:0%;
+    opacity: 100%;
+    height: 400px;
+    position: relative;
+    font-size: 16px;
+    direction: ltr;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+.input-text input{
+    width: 100%;
+    height: 45px;
+    margin: 8px 0;  
+    padding: 12px 20px;
+    display: inline-block;
+    box-sizing: border-box;  
+    background-color: #333;
+    color: white;
+    border-radius:5px;
+    border: none;
+    outline: transparent;
+    text-indent: 18px;
+}
+
+.input-text input::-webkit-input-placeholder {
+    font-size: 1rem;
+    color: #999;
+}
+
+.input-text input::-moz-placeholder {
+    font-size: 1rem;
+    color: #999;
+    text-indent: 40px;
+}
+.warning-input{
+    display: none;
+    color:#e87c03;
+    margin-top: 0;
+    font-size: 0.8rem;
+    margin-top: 6px;
+}
+.signin-button{
+    margin-top: 20px;
+    width: 100%;
+    padding: 13px;
+    border-radius: 5px;
+    background-color: red;
+    color:white;
+    border:none;
+    font-weight: bold;
+    font-size: 1.05rem;
+    cursor: pointer;
+}
+.face_icon{
+    color: #3b5998;
+    margin-right: 6px;
+    font-size: 20px;
+}
+
+.log_face{
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 0.8rem;
+}
+.remember-flex{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    font-size: 0.8rem;
+}
+.login-face{
+    margin: 50px 0 15px 0;
+    vertical-align: middle;
+    color: #8c8c8c;
+}
+.log_text{
+    color: #b3b3b3;
+}
+
+.log_link{
+    color: #737373;
+}
+
+.signup-link{
+    color: white;
+    text-decoration: none;
+}
+
+.warning-input{
+    display: none;
+    color:#e87c03;
+    margin-top: 0;
+    font-size: 0.8rem;
+    margin-top: 6px;
+}
+.help a{
+    text-decoration: none;
+}
+.help a:hover{
+    text-decoration: underline;
+}
+
+.signup-link:hover{
+    text-decoration: underline;
+}
+.new-members{
+    margin-bottom: 10px;
+    color: #8c8c8c;
+}
+.protection{
+    font-size: 0.8rem;
+    color: #8c8c8c;
+}
+
+.protection a{
+    text-decoration: none;
+}
+
+.protection a:hover{
+    text-decoration: underline;
+}
+
+
